@@ -4,27 +4,27 @@ const products = {
     car: {
         title: "Car",
         price: 24000,
-        img: "src/images/car.jpg"
+        img: "https://www.pngall.com/wp-content/uploads/2016/07/Car-PNG-File.png"
     },
     cola: {
         title: "Cola",
         price: 2,
-        img: "src/images/cola.jpg"
+        img: "https://www.pngmart.com/files/1/Coca-Cola-PNG-Photos.png"
     },
     gum: {
         title: "Gum",
         price: 0.10,
-        img: "src/images/gum.jpg"
+        img: "https://images.marul.com/thumbs/016/0165061_falim-damla-5li_320.png"
     },
     hundredTurkishLira: {
         title: "100 Turkish Lira",
         price: 3.71,
-        img: "src/images/hundredTurkishLira.png"
+        img: "https://i.pinimg.com/originals/84/97/b1/8497b19c2b262ebbb9a8e1690ec2ec04.png"
     },
     ipad: {
         title: "Ipad",
         price: 800,
-        img: "src/images/ipad.jpg"
+        img: "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/TeoriV2-106818-1_large.jpg"
     },
     sneaker: {
         title: "shoe",
@@ -34,17 +34,17 @@ const products = {
     boat: {
         title: "Boat",
         price: 55000000,
-        img: "src/images/boat.png"
+        img: "https://i.ibb.co/sCbmRKV/Ekran-Resmi-2021-04-16-13-45-31.png"
     },
     monalisa: {
         title: "Mona Lisa",
         price: 2000000000,
-        img: "src/images/monalisa.jpg"
+        img: "https://render.fineartamerica.com/images/rendered/square-product/small/images/artworkimages/mediumlarge/1/monalisa-with-white-background-sushil-deokar.jpg"
     },
     oneTurkishLira: {
         title: "1 Turkish Lira",
         price: 0.037,
-        img: "src/images/oneTurkishLira.jpg"
+        img: "https://iasbh.tmgrup.com.tr/802b79/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/dunya/1-tlnin-diger-ulke-paralari-karsisindaki-degeri/1.jpg"
     }
 }
 
