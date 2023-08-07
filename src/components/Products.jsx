@@ -29,7 +29,7 @@ const products = {
     sneaker: {
         title: "shoe",
         price: 150,
-        img: "src/images/sneaker.jpg"
+        img: "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/585e2cd2-4f2a-408c-a8ba-f89952cdf332/revolution-6-road-running-shoes-NC0P7k.png"
     },
     boat: {
         title: "Boat",
